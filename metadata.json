@@ -1,0 +1,5 @@
+{
+  "name": "Predictive Maintenance Hub",
+  "description": "An Industry 4.0 dashboard for industrial asset monitoring, featuring RUL prediction, maintenance priority scoring, and AI-driven diagnostic insights.",
+  "requestFramePermissions": []
+}
